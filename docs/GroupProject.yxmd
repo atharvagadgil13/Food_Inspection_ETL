@@ -1,0 +1,1811 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Chicago_2021-2022.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Inspection ID" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="DBA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="AKA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="License #" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Facility Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Risk" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Results" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Violations" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Latitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+            <Field name="Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2021-2022.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Chicago_2022-2023.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Inspection ID" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="DBA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="AKA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="License #" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Facility Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Risk" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Results" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Violations" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Latitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+            <Field name="Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2022-2023.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Chicago_2023-2024.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Inspection ID" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="DBA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="AKA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="License #" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Facility Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Risk" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Results" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Violations" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Latitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+            <Field name="Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2023-2024.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Chicago_2024-2025.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Inspection ID" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="DBA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="AKA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="License #" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Facility Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Risk" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Results" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Violations" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Latitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+            <Field name="Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2024-2025.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Chicago_2025-partyear.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Inspection ID" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="DBA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="AKA Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="License #" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Facility Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Risk" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Zip" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Results" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Violations" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Latitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Longitude" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+            <Field name="Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Chicago_2025-partyear.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>True</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>True</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Dallas_2022-2023.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Restaurant Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Score" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Street Number" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Street Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Street Direction" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Street Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Street Unit" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Street Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Zip Code" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation  Memo - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Description - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Points - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Detail - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Violation Memo - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Month" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Inspection Year" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+            <Field name="Lat Long Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2022-2023.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>True</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>True</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Dallas_2023-2024.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Restaurant Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Score" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Street Number" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Street Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Street Direction" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Street Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Street Unit" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Street Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Zip Code" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation  Memo - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Description - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Points - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Detail - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Violation Memo - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Month" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Inspection Year" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+            <Field name="Lat Long Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2023-2024.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="786" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>True</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Dallas_2024-2025.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Restaurant Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Score" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Street Number" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Street Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Street Direction" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Street Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Street Unit" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Street Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Zip Code" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation  Memo - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Description - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Points - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Detail - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Violation Memo - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Month" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Inspection Year" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+            <Field name="Lat Long Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2024-2025.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="882" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Dallas_2025-partyear.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Restaurant Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Score" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Street Number" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Street Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Street Direction" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Street Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Street Unit" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Street Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Zip Code" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation  Memo - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Description - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Points - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Detail - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Violation Memo - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Month" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Inspection Year" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+            <Field name="Lat Long Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2025-partyear.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Inspection ID" selected="True" rename="Inspection_ID" />
+            <SelectField field="DBA Name" selected="True" rename="Facility_Name" />
+            <SelectField field="AKA Name" selected="True" rename="Alternate_Name" />
+            <SelectField field="License #" selected="True" rename="License_Number" type="Int64" size="8" />
+            <SelectField field="Facility Type" selected="True" rename="Facility_Type" />
+            <SelectField field="Risk" selected="True" rename="Risk_Category" />
+            <SelectField field="Address" selected="True" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="State" selected="True" />
+            <SelectField field="Zip" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Results" selected="True" rename="Inspection_Result" />
+            <SelectField field="Violations" selected="True" rename="Violation_Description" />
+            <SelectField field="Latitude" selected="False" type="Double" size="8" />
+            <SelectField field="Longitude" selected="False" type="Double" size="8" />
+            <SelectField field="Location" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Inspection ID" selected="True" rename="Inspection_ID" />
+            <SelectField field="DBA Name" selected="True" rename="Facility_Name" />
+            <SelectField field="AKA Name" selected="True" rename="Alternate_Name" />
+            <SelectField field="License #" selected="True" rename="License_Number" type="Int64" size="8" />
+            <SelectField field="Facility Type" selected="True" rename="Facility_Type" />
+            <SelectField field="Risk" selected="True" rename="Risk_Category" />
+            <SelectField field="Address" selected="True" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="State" selected="True" />
+            <SelectField field="Zip" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Results" selected="True" rename="Inspection_Result" />
+            <SelectField field="Violations" selected="True" rename="Violation_Description" />
+            <SelectField field="Latitude" selected="False" type="Double" size="8" />
+            <SelectField field="Longitude" selected="False" type="Double" size="8" />
+            <SelectField field="Location" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Inspection ID" selected="True" rename="Inspection_ID" />
+            <SelectField field="DBA Name" selected="True" rename="Facility_Name" />
+            <SelectField field="AKA Name" selected="True" rename="Alternate_Name" />
+            <SelectField field="License #" selected="True" rename="License_Number" type="Int64" size="8" />
+            <SelectField field="Facility Type" selected="True" rename="Facility_Type" />
+            <SelectField field="Risk" selected="True" rename="Risk_Category" />
+            <SelectField field="Address" selected="True" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="State" selected="True" />
+            <SelectField field="Zip" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Results" selected="True" rename="Inspection_Result" />
+            <SelectField field="Violations" selected="True" rename="Violation_Description" />
+            <SelectField field="Latitude" selected="False" type="Double" size="8" />
+            <SelectField field="Longitude" selected="False" type="Double" size="8" />
+            <SelectField field="Location" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="318" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Inspection ID" selected="True" rename="Inspection_ID" />
+            <SelectField field="DBA Name" selected="True" rename="Facility_Name" />
+            <SelectField field="AKA Name" selected="True" rename="Alternate_Name" />
+            <SelectField field="License #" selected="True" rename="License_Number" type="Int64" size="8" />
+            <SelectField field="Facility Type" selected="True" rename="Facility_Type" />
+            <SelectField field="Risk" selected="True" rename="Risk_Category" />
+            <SelectField field="Address" selected="True" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="State" selected="True" />
+            <SelectField field="Zip" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Results" selected="True" rename="Inspection_Result" />
+            <SelectField field="Violations" selected="True" rename="Violation_Description" />
+            <SelectField field="Latitude" selected="False" type="Double" size="8" />
+            <SelectField field="Longitude" selected="False" type="Double" size="8" />
+            <SelectField field="Location" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="414" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Inspection ID" selected="True" rename="Inspection_ID" />
+            <SelectField field="DBA Name" selected="True" rename="Facility_Name" />
+            <SelectField field="AKA Name" selected="True" rename="Alternate_Name" />
+            <SelectField field="License #" selected="True" rename="License_Number" type="Int64" size="8" />
+            <SelectField field="Facility Type" selected="True" rename="Facility_Type" />
+            <SelectField field="Risk" selected="True" rename="Risk_Category" />
+            <SelectField field="Address" selected="True" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="State" selected="True" />
+            <SelectField field="Zip" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Results" selected="True" rename="Inspection_Result" />
+            <SelectField field="Violations" selected="True" rename="Violation_Description" />
+            <SelectField field="Latitude" selected="False" type="Double" size="8" />
+            <SelectField field="Longitude" selected="False" type="Double" size="8" />
+            <SelectField field="Location" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Restaurant Name" selected="True" rename="Facility_Name" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Score" selected="True" rename="Violation_Score" type="Double" size="8" />
+            <SelectField field="Street Address" selected="True" rename="Address" />
+            <SelectField field="Zip Code" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Month" selected="True" rename="Month" />
+            <SelectField field="Inspection Year" selected="True" rename="Year" />
+            <SelectField field="Lat Long Location" selected="True" rename="Location" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Restaurant Name" selected="True" rename="Facility_Name" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Score" selected="True" rename="Violation_Score" type="Double" size="8" />
+            <SelectField field="Street Address" selected="True" rename="Address" />
+            <SelectField field="Zip Code" selected="True" rename="Zip_Code" type="Int64" size="8" />
+            <SelectField field="Inspection Month" selected="True" rename="Month" />
+            <SelectField field="Inspection Year" selected="True" rename="Year" />
+            <SelectField field="Lat Long Location" selected="True" rename="Location" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="330" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Restaurant Name" selected="True" rename="Facility_Name" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Score" selected="True" rename="Violation_Score" type="Double" size="8" />
+            <SelectField field="Street Address" selected="True" rename="Address" />
+            <SelectField field="Zip Code" selected="True" rename="Zip_Code" />
+            <SelectField field="Inspection Month" selected="True" rename="Month" />
+            <SelectField field="Inspection Year" selected="True" rename="Year" />
+            <SelectField field="Lat Long Location" selected="True" rename="Location" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="366" y="774" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Restaurant Name" selected="True" rename="Facility_Name" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Score" selected="True" rename="Violation_Score" type="Double" size="8" />
+            <SelectField field="Street Address" selected="True" rename="Address" />
+            <SelectField field="Zip Code" selected="True" rename="Zip_Code" />
+            <SelectField field="Inspection Month" selected="True" rename="Month" />
+            <SelectField field="Inspection Year" selected="True" rename="Year" />
+            <SelectField field="Lat Long Location" selected="True" rename="Location" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="342" y="882" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Restaurant Name" selected="True" rename="Facility_Name" />
+            <SelectField field="Inspection Type" selected="True" rename="Inspection_Type" />
+            <SelectField field="Inspection Date" selected="True" rename="Inspection_Date" type="DateTime" size="19" />
+            <SelectField field="Inspection Score" selected="True" rename="Violation_Score" type="Double" size="8" />
+            <SelectField field="Street Address" selected="True" rename="Address" />
+            <SelectField field="Zip Code" selected="True" rename="Zip_Code" />
+            <SelectField field="Inspection Month" selected="True" rename="Month" />
+            <SelectField field="Inspection Year" selected="True" rename="Year" />
+            <SelectField field="Lat Long Location" selected="True" rename="Location" />
+            <SelectField field="City" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="22">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>True</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>\t</Delimeter>
+            <QuoteRecordBreak>True</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Dallas_2021-2022.tsv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Restaurant Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Date" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Score" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Street Number" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Street Name" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Street Direction" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Street Type" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Street Unit" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Street Address" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Zip Code" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 1" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 2" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 3" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 4" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 5" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 6" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 7" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 8" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 9" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 10" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 11" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 12" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 13" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 14" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 15" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 16" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 17" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 18" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 19" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation  Memo - 20" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 21" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 22" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 23" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 24" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Description - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Points - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Detail - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Violation Memo - 25" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Month" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Inspection Year" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+            <Field name="Lat Long Location" size="254" source="File: C:\Users\Atharva\Desktop\groupProject\Food_Inspection_Chicago_Dallas_Files\Dallas_2021-2022.tsv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="26">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="198" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="DateTimeFormat(DateTimeParse([Inspection Date], &quot;%d-%m-%Y&quot;), &quot;%Y-%m-%d&quot;)" field="Inspection Date" size="254" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Inspection Date = DateTimeFormat(DateTimeParse([Inspection Date], "%d-%m-%Y"), "...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="32">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="186" y="510" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Dallas&quot;" field="City" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[City = "Dallas"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="198" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Dallas&quot;" field="City" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[City = "Dallas"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="198" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Dallas&quot;" field="City" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[City = "Dallas"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="198" y="786" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Dallas&quot;" field="City" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[City = "Dallas"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="198" y="882" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Dallas&quot;" field="City" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[City = "Dallas"
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="678" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="678" y="654" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings>
+        <Position x="798" y="174" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Select Fields">Inspection_ID=True,Facility_Name=True,Alternate_Name=True,License_Number=True,Facility_Type=True,Risk_Category=True,Address=True,City=True,State=True,Zip_Code=True,Inspection_Date=True,Inspection_Type=True,Inspection_Result=True,Violation_Description=True,Location=True</Value>
+          <Value name="Sample Data">False</Value>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">5000</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Field_Summary_Report.yxmc" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="918" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Atharva\AppData\Local\Temp\Alteryx\Engine_1472_89baa90741f2414f812ebbb24e1bb105_\Engine_1472_1f09dddde180444d9857623ccb4e271a~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2>
+              <DefaultTab>Report</DefaultTab>
+              <Hints />
+            </View2>
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings>
+        <Position x="882" y="654" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Select Fields">Facility_Name=True,Inspection_Type=True,Inspection_Date=True,Violation_Score=True,Address=True,Zip_Code=True,Month=True,Year=True,Location=True,City=True</Value>
+          <Value name="Sample Data">False</Value>
+          <Value name="Number">True</Value>
+          <Value name="NNumber">5000</Value>
+          <Value name="Percent">False</Value>
+          <Value name="NPercent">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Field_Summary_Report.yxmc" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1002" y="642" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Atharva\AppData\Local\Temp\Alteryx\Engine_1472_89baa90741f2414f812ebbb24e1bb105_\Engine_1472_b5acb6e5bdce43eaba709eb6ac91466a~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="49">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="762" y="714" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Atharva\AppData\Local\Temp\Alteryx\Engine_1472_89baa90741f2414f812ebbb24e1bb105_\Engine_1472_3509750e1dfa48d7ab3a28ead4a96eb7~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="762" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Atharva\AppData\Local\Temp\Alteryx\Engine_1472_89baa90741f2414f812ebbb24e1bb105_\Engine_1472_1bcfe38f72614866bacf65ee2143fb39~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="26" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="36" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="26" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="32" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="42" Connection="Field Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="50" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="47" Connection="Field Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Output" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>GroupProject</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="47a76a0e-e11a-4215-921e-9e6989b53138" />
+      <Telemetry>
+        <PreviousWorkflowId value="fc4cc152-ef81-4195-961b-1562c60242cb" />
+        <OriginWorkflowId value="fc4cc152-ef81-4195-961b-1562c60242cb" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
